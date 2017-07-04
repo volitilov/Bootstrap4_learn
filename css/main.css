@@ -1,0 +1,25 @@
+body {
+	padding: 0px 50px;
+}
+section {
+	padding: 20px 100px; 
+	margin: 50px 0px;
+	background-color: #f7f7f9;
+	border-radius: 6px;
+}
+.headers {
+	margin-top: 50px;
+	margin-bottom: 20px;
+}
+.btn-block {
+	margin-top: 15px;
+}
+.btn-toolbar {
+	margin-bottom: 20px;
+}
+.card {
+	margin-bottom: 20px;
+}
+.carousel {
+	
+}
